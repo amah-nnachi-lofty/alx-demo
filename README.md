@@ -4,7 +4,7 @@
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# su root     // returns to root directory
 
-root@Ubuntu22:~alx-demo/c-demo/hello-world#  // change to directory from you want to safe the file
+root@Ubuntu22:~alx-demo/c-demo/cd hello-world // change to directory from where you want to safe the file
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# vi hello.c    // will automatically create the file and open it in the vi editor
 
