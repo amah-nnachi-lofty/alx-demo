@@ -1,5 +1,9 @@
 
+
+
 # Steps to compile and run C program
+
+
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# su root // returns to root directory
 
