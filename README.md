@@ -1,4 +1,4 @@
-## alx-demo
+# alx-demo
 
 # Steps to run C program
 
