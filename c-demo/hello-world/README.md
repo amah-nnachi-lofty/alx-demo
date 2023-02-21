@@ -17,7 +17,11 @@ root@Ubuntu22:~alx-demo/c-demo/hello-world# ls hello-program hello.c
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# gcc hello-program // run the hello-program Hello World
 
-// Alternatively, we could use the make command to generate the executable file name with resemblance of the name of the source file root@Ubuntu22:~alx-demo/c-demo/hello-world# make hello cc hello.c -o hello.c
+// Alternatively, we could use the make command to generate the executable file name with resemblance of the name of the source file
+
+root@Ubuntu22:~alx-demo/c-demo/hello-world# make hello
+
+ cc hello.c -o hello.c
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# ./hello Hello World
 
