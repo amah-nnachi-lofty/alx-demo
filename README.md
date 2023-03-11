@@ -1,7 +1,6 @@
 # alx-demo
 
 # Steps to compile and run C program
-
 root@Ubuntu22:~alx-demo/c-demo/hello-world# su root     // returns to root directory
 
 root@Ubuntu22:~alx-demo/c-demo/cd hello-world // change to directory from where you want to safe the file
@@ -30,9 +29,12 @@ root@Ubuntu22:~alx-demo/c-demo/hello-world# ./hello
 Hello World
 
 # To clone run program on git bash from a local machine
-
 - LOFTDOT@Gulu MINGW64 ~/Documents    // type cd ~ to return to the root directory
 - git clone the remote repositrory or open the repository on the local machine
 
 
-
+# To run an instance of a machine in another machine
+- Create an ssh, if it is not provided
+- Navigate to the root directory of the new machine where you intend to restart an instance
+- Copy the ssh credentials from the old machine and paste into the new machine, e.g ssh dhgy@reeq5689744dec.898.lofttcod.online
+- Enter the password when requested
