@@ -15,3 +15,8 @@ int main()
 	printf("Value at the ponter address is: %d\n", *ptr); // vlaue at the address of ptr(&x)
 	return 0;
 }
+// The output of the program
+// x is : 5
+// The memory address of x is: 000000000060FE14
+// Value at the ponter address is: 5
+
