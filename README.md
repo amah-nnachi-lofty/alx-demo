@@ -34,7 +34,7 @@ Hello World
 
 
 # To run an instance of a machine in another machine
-- Create an ssh, if it is not provided
+- Create an ssh, if it is not provided. visit: https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key or https://www.targetprocess.com/guide/integrations/integrations-source-control/issue-ssh-key-pair-from-git-bash-use-in-targetprocess/
 - Navigate to the root directory of the new machine where you intend to restart an instance
 - Copy the ssh credentials from the old machine and paste into the new machine, e.g ssh dhgy@reeq5689744dec.898.lofttcod.online
 - Enter the password when requested
