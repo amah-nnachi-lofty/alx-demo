@@ -28,3 +28,11 @@ cc hello.c -o hello.c
 
 root@Ubuntu22:~alx-demo/c-demo/hello-world# ./hello
 Hello World
+
+# To clone run program on git bash from a local machine
+
+- LOFTDOT@Gulu MINGW64 ~/Documents    // type cd ~ to return to the root directory
+- git clone the remote repositrory or open the repository on the local machine
+
+
+
