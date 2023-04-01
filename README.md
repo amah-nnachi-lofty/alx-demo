@@ -47,5 +47,3 @@ Hello World
 5. Double click path under system variables
 6. Click New and paste copied in step 2
 7. Click OK
-- 
-- 
