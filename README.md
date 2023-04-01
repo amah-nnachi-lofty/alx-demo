@@ -38,3 +38,14 @@ Hello World
 - Navigate to the root directory of the new machine where you intend to restart an instance
 - Copy the ssh credentials from the old machine and paste into the new machine, e.g ssh dhgy@reeq5689744dec.898.lofttcod.online
 - Enter the password when requested
+
+# To configure emacs editor to run on windows minGW or git bash 
+1. Download emacs from: https://www.gnu.org/software/emacs/download.html#nonfree
+2. Open the installation directory of emacs and open the bin file and copy the directory path:  C:\Program Filesxxx\Emacsscde\emacs-29.0.6675\bin
+3. Right click on computer system and clcik Advanced System Settings to see the System Property dialog box
+4. Click Environment Variables
+5. Double click path under system variables
+6. Click New and paste copied in step 2
+7. Click OK
+- 
+- 
